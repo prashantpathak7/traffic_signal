@@ -5,8 +5,8 @@
 }
 
 body{
-    /* background-color: #1abc9c; */
-    background-color: #a81c4b;
+    background-color: #1abc9c;
+    /* background-color: #a81c4b; */
     display: flex;
     align-items: center;
     justify-content: center;
